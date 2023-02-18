@@ -60,3 +60,4 @@ smartphone1.use_gps('Цум')
 computer1.make_computations()
 print(f"Is computer1's memory the same as smartphone1's:{computer1 == smartphone1}")
 phone1.call(phone1.sim_cards_list[0], '0777006055')
+#asdflh
